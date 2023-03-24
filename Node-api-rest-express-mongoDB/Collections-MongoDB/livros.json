@@ -1,0 +1,4 @@
+{"_id":{"$oid":"6418a0b56390c6777d7439b2"},"titulo":"Back-end Java","autor":{"$oid":"641a1af56b745503b7affc9d"},"editora":"Casa do código","numeroPaginas":{"$numberInt":"100"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"641daec80d2fd8772de43851"},"titulo":"Back-end Java","autor":{"$oid":"641a1af56b745503b7affc9d"},"editora":"Casa do código","numeroPaginas":{"$numberInt":"100"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"641db52c82f1d39e7c758c03"},"titulo":"llalla","autor":{"$oid":"641a1af56b745503b7affc9d"},"editora":"programação","numeroPaginas":{"$numberInt":"100"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"641db53b82f1d39e7c758c05"},"titulo":"alura","autor":{"$oid":"641a1af56b745503b7affc9d"},"editora":"alura","numeroPaginas":{"$numberInt":"100"},"__v":{"$numberInt":"0"}}
